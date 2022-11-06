@@ -1,0 +1,13 @@
+.place__description{
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    gap: 26px;
+}
+
+@media screen and (max-width: 460px) {
+    .place__description{
+        padding: 0 16px;
+    }
+}
