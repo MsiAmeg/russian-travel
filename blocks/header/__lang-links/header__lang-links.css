@@ -1,4 +1,7 @@
 .header__lang-links{
+    display: flex;
+    gap: 0 18px;
+    list-style: none;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;

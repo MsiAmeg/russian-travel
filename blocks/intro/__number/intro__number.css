@@ -1,9 +1,7 @@
-.intro__list{
-    list-style: none;
+.intro__number{
     margin: 0;
     padding: 0;
-    color: white;
     font-size: 12px;
     line-height: 18px;
-    font-weight: 700;
+    font-weight: 400;
 }
