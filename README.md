@@ -1,23 +1,10 @@
-# Проект: Путешествие по России
+# Russian-Travel  
+## The third Yandex praktikum project  
+What do we learned? &rarr; 
+1. Creating grid layouts.
+2. Adding adaptive.  
 
-### Обзор
-* Интро
-* Figma
-* Картинки
-
-**Интро**
-
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
-
-**Figma**
-
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+![Preview](https://user-images.githubusercontent.com/99011044/200495231-e2f35801-636d-415d-9c5b-04c9f34f4185.jpg)
+### Technologies:  
+* Html
+* Css
