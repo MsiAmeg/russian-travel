@@ -17,6 +17,11 @@
         gap: 73px;
         padding: 0 24px 90px;
     }
+
+    
+    .places > :first-child .place__title{
+        max-width: 320px;
+    }
 }
 
 @media screen and (max-width: 640px) {
