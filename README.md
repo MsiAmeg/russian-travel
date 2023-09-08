@@ -14,6 +14,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white)
 ![BEM](https://img.shields.io/badge/-BEM-black?style=for-the-badge&logo=bem)
 
+## Статус: Завершен
+
 ## Запуск проекта:
 1. Клонировать репозиторий.
 2. Запустить проект.
